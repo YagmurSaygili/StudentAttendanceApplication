@@ -14,5 +14,5 @@ Intermediate C approach with using hash tables: open addressing
     system starts to design hash mapping. System asks user which way of hashing
     wanted then calculate accordingly.
     
-    Keypoints: Intermediate C, Hashing, Indexing, Data Storage, Real Life Application
+    Keypoints: Algorithms, Intermediate C, Hashing, Indexing, Data Storage, Real Life Application
 
